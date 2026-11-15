@@ -114,6 +114,7 @@ Daily or weekly launch boards. Most offer a free route with a queue or a badge, 
 - <img src="https://www.google.com/s2/favicons?domain=daniellaunches.com&sz=32" width="16" height="16" alt=""> **[DanielLaunches](https://daniellaunches.com)** `DR4 18` `DR3 65` - daily launches
 - <img src="https://www.google.com/s2/favicons?domain=ideakiln.com&sz=32" width="16" height="16" alt=""> **[IdeaKiln](https://ideakiln.com)** `DR4 16` `DR3 52` - early products
 - <img src="https://www.google.com/s2/favicons?domain=tinylaunchpad.com&sz=32" width="16" height="16" alt=""> **[Tiny Launchpad](https://tinylaunchpad.com)** `DR4 15` `DR3 44` - small launches
+- <img src="https://www.google.com/s2/favicons?domain=awesomeindie.com&sz=32" width="16" height="16" alt=""> **[Awesome Indie](https://awesomeindie.com)** `DR4 14` `DR3 41` - daily indie launches ranked by upvotes
 - <img src="https://www.google.com/s2/favicons?domain=fridayhunt.com&sz=32" width="16" height="16" alt=""> **[Fridayhunt](https://fridayhunt.com)** `DR4 12` `DR3 28` - weekly launches
 - <img src="https://www.google.com/s2/favicons?domain=builtbyindies.com&sz=32" width="16" height="16" alt=""> **[Built by Indies](https://builtbyindies.com)** `DR4 11` `DR3 43` - indie-made products
 - <img src="https://www.google.com/s2/favicons?domain=shipybara.com&sz=32" width="16" height="16" alt=""> **[Shipybara](https://shipybara.com)** `DR4 9` `DR3 53` - product launches
