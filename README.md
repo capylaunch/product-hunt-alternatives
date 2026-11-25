@@ -191,7 +191,7 @@ For anything with AI in it. Many have long queues on the free plan.
 - <img src="https://www.google.com/s2/favicons?domain=rankyourai.com&sz=32" width="16" height="16" alt=""> **[Rank Your AI](https://rankyourai.com)** `DR4 12` `DR3 35`
 - <img src="https://www.google.com/s2/favicons?domain=nxgntools.com&sz=32" width="16" height="16" alt=""> **[NxGN Tools](https://nxgntools.com)** `DR4 8` `DR3 70`
 - <img src="https://www.google.com/s2/favicons?domain=hot100.ai&sz=32" width="16" height="16" alt=""> **[Hot100.ai](https://hot100.ai)** `DR4 0` `DR3 41`
-- <img src="https://www.google.com/s2/favicons?domain=learn.ynteractive.com&sz=32" width="16" height="16" alt=""> **[Stepthrough](https://learn.ynteractive.com/for-makers)** - free AI tool listing + a free hands-on lesson for each tool
+- <img src="https://www.google.com/s2/favicons?domain=learn.ynteractive.com&sz=32" width="16" height="16" alt=""> **[Stepthrough](https://ynteractive.com/learn)** - free AI tool listing + a free hands-on lesson for each tool
 
 ## Startup databases, deals and marketplaces
 
