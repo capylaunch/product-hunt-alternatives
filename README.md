@@ -164,6 +164,7 @@ Lasting listings that people browse when they compare tools. Review sites like G
 - <img src="https://www.google.com/s2/favicons?domain=versily.com&sz=32" width="16" height="16" alt=""> **[Versily](https://versily.com)** `DR4 0.5` `DR3 67`
 - <img src="https://www.google.com/s2/favicons?domain=tools.rodeo&sz=32" width="16" height="16" alt=""> **[Tools Rodeo](https://tools.rodeo)** `DR4 0` `DR3 38`
 - <img src="https://www.google.com/s2/favicons?domain=trustpilot.com&sz=32" width="16" height="16" alt=""> **[Trustpilot](https://www.trustpilot.com)** - customer reviews
+- <img src="https://www.google.com/s2/favicons?domain=mediapronet.com&sz=32" width="16" height="16" alt=""> **[MEDIAPRONET](https://mediapronet.com)** - new startups and SaaS tools
 
 ## AI tool directories
 
